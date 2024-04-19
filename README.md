@@ -18,9 +18,7 @@ Chosen language: Java
 Used technologies/APIS (with links):
 Android Camera API:
 https://developer.android.com/media/camera/camera-deprecated/camera-api
-Face Expression Detection (either one of):
-https://www.tensorflow.org/lite/api_docs/java/org/tensorflow/lite/package-summary
-Or
+Face Expression Detection:
 https://developers.google.com/ml-kit/vision/face-detection
 Image Optimization for UI [Glide]:
 https://github.com/bumptech/glide
