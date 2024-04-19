@@ -22,3 +22,9 @@ Face Expression Detection:
 https://developers.google.com/ml-kit/vision/face-detection
 Image Optimization for UI [Glide]:
 https://github.com/bumptech/glide
+
+
+
+
+https://github.com/MohabEldemery/Face-Emotion-Detection-Mobile-App/assets/121578039/b033717e-413a-4b26-b50c-e74fe40a5e5d
+
