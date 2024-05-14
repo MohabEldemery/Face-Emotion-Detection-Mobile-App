@@ -1,4 +1,4 @@
-Title: Mobile Face Emotion Detection Application
+Title: Mobile Face Emotion Recognition Application
 
 Short description:
 Developing a mobile application capable of detecting emotions from images captured by the real device camera. The application should analyze facial expressions and respond with a joke accordingly, for instance if the face expression is happy it will display a sad joke & the opposite .
